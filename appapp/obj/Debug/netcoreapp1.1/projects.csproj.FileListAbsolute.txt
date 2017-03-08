@@ -1,0 +1,8 @@
+C:\projects\bin\Debug\netcoreapp1.1\projects.deps.json
+C:\projects\bin\Debug\netcoreapp1.1\projects.runtimeconfig.json
+C:\projects\bin\Debug\netcoreapp1.1\projects.runtimeconfig.dev.json
+C:\projects\bin\Debug\netcoreapp1.1\projects.dll
+C:\projects\bin\Debug\netcoreapp1.1\projects.pdb
+C:\projects\obj\Debug\netcoreapp1.1\projects.AssemblyInfo.cs
+C:\projects\obj\Debug\netcoreapp1.1\projects.dll
+C:\projects\obj\Debug\netcoreapp1.1\projects.pdb
